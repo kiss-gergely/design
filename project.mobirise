@@ -136,7 +136,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/httr-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/3051224-poster-1280-artist-hire-next-business-consultant-2000x1125.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -181,7 +181,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mk-jo-2000x13331.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mk-jo-2000x13332.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
