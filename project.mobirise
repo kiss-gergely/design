@@ -181,7 +181,7 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/mk-jo-2000x13330.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mk-jo-2000x13331.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
